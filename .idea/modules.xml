@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../RabbitMQ/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/../RabbitMQ/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMQ.iml" filepath="$PROJECT_DIR$/RabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RabbitMQ/WorkQueues/WorkQueues.iml" filepath="$PROJECT_DIR$/../RabbitMQ/WorkQueues/WorkQueues.iml" />
+    </modules>
+  </component>
+</project>
