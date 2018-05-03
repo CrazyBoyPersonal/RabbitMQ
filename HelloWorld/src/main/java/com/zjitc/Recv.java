@@ -7,6 +7,7 @@ import com.rabbitmq.client.ConnectionFactory;
 import com.rabbitmq.client.Consumer;
 import com.rabbitmq.client.DefaultConsumer;
 import com.rabbitmq.client.Envelope;
+
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.security.PublicKey;
@@ -25,7 +26,7 @@ public class Recv {
 
   public static void main(String[] args) throws IOException, TimeoutException {
     ConnectionFactory connectionFactory = new ConnectionFactory();
-    connectionFactory.setHost("127.0.0.1");
+    connectionFactory.setHost("120.24.56.46");
     Connection connection = connectionFactory.newConnection();
     Channel channel = connection.createChannel();
 
@@ -41,6 +42,6 @@ public class Recv {
       }
     };
 
-    channel.basicConsume(QUEUE_NAME,true, consumer);
+    channel.basicConsume(QUEUE_NAME, true, consumer);
   }
 }

@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/../RabbitMQ/111" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../RabbitMQ/HelloWorld" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../RabbitMQ/WorkQueues" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HelloWorld" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WorkQueueFair" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WorkQueues" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/confirm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public_subscribe" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routing" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/topic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transaction" charset="UTF-8" />
   </component>
 </project>

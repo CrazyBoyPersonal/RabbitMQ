@@ -12,6 +12,12 @@
     <module>Demo01</module>
     <module>WorkQueues</module>
     <module>HelloWorld</module>
+      <module>WorkQueueFair</module>
+      <module>public_subscribe</module>
+      <module>routing</module>
+      <module>topic</module>
+    <module>transaction</module>
+      <module>confirm</module>
   </modules>
 
 

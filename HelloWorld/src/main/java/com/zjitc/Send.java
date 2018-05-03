@@ -19,7 +19,7 @@ public class Send {
 
   public static void main(String[] args) throws IOException , TimeoutException {
     ConnectionFactory connectionFactory = new ConnectionFactory();
-    connectionFactory.setHost("127.0.0.1");
+    connectionFactory.setHost("120.24.56.46");
     Connection connection = connectionFactory.newConnection();
     Channel channel = connection.createChannel();
 

@@ -6,15 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="confirm" />
         <module name="Demo01" />
         <module name="HelloWorld" />
+        <module name="public_subscribe" />
+        <module name="routing" />
+        <module name="topic" />
+        <module name="transaction" />
+        <module name="WorkQueueFair" />
         <module name="WorkQueues" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="confirm" target="1.6" />
       <module name="Demo01" target="1.5" />
       <module name="HelloWorld" target="1.5" />
+      <module name="public_subscribe" target="1.5" />
       <module name="RabbitMQ" target="1.5" />
+      <module name="routing" target="1.5" />
+      <module name="topic" target="1.5" />
+      <module name="transaction" target="1.5" />
+      <module name="WorkQueueFair" target="1.5" />
       <module name="WorkQueues" target="1.5" />
     </bytecodeTargetLevel>
   </component>

@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../RabbitMQ/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/../RabbitMQ/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/RabbitMQ.iml" filepath="$PROJECT_DIR$/RabbitMQ.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../RabbitMQ/WorkQueues/WorkQueues.iml" filepath="$PROJECT_DIR$/../RabbitMQ/WorkQueues/WorkQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkQueueFair/WorkQueueFair.iml" filepath="$PROJECT_DIR$/WorkQueueFair/WorkQueueFair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkQueues/WorkQueues.iml" filepath="$PROJECT_DIR$/WorkQueues/WorkQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/confirm/confirm.iml" filepath="$PROJECT_DIR$/confirm/confirm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/public_subscribe/public_subscribe.iml" filepath="$PROJECT_DIR$/public_subscribe/public_subscribe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/routing/routing.iml" filepath="$PROJECT_DIR$/routing/routing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topic/topic.iml" filepath="$PROJECT_DIR$/topic/topic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transaction/transaction.iml" filepath="$PROJECT_DIR$/transaction/transaction.iml" />
     </modules>
   </component>
 </project>
